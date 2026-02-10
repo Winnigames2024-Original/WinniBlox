@@ -1,3 +1,5 @@
 {
-  "name": "EblanEbs"
+  "name": "EblanEbs",
+  "ru_login_title": "Вход",
+  "en_login_title": "Login"
 }
