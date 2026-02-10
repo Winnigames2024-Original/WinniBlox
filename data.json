@@ -1,5 +1,7 @@
 {
   "name": "EblanEbs",
   "ru_login_title": "Вход",
-  "en_login_title": "Login"
+  "en_login_title": "Login",
+  "ru_loginbutton_text": "Авторизоватся",
+  "en_loginbutton_text": "Authorize"
 }
