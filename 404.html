@@ -1,0 +1,12 @@
+<html>
+  <head>
+    <title></title>
+  </head>
+  <body>
+    <pre id="json-display"></pre>
+    <script>
+        const data = { "error": "404", "errorText": "Error 404. Page not Found!" };
+        document.getElementById('json-display').textContent = JSON.stringify(data, null, 2);
+    </script>
+  </body>
+</html>
